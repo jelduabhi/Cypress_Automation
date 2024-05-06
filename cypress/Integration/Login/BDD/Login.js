@@ -20,5 +20,5 @@ When("I enter user name and password",()=>{
 })
 
 Then("I should be able to Login",()=>{
-
+    console.log("Logs")
 })
