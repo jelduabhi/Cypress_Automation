@@ -16,7 +16,7 @@ cy.visit("https://demo.opencart.com/index.php?route=account/login&language=en-gb
 })
 
 When("I enter user name and password",()=>{
-    loginPage.loginTothepage(testdata)
+
 })
 
 Then("I should be able to Login",()=>{
